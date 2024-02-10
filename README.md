@@ -1,1 +1,3 @@
 # Firewall-configuration
+
+In this project, we will focus on the Uncomplicated Firewall (UFW) as an element of security hardening. UFW is a user-friendly front-end for managing iptables firewall rules in Linux. It provides a simple way to configure and manage firewall rules, making it easier for administrators to secure their systems. Firewalls act as a first line of defense against external threats, malware, and hackers attempting to gain unauthorized access to data and systems. They monitor network traffic, providing the ability to control system entry points, prevent virus attacks, and protect against data theft.
